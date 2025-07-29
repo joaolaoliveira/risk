@@ -23,7 +23,7 @@ export default function Home() {
               Sistema de Avaliação de Risco Ambiental
             </CardTitle>
             <p className="text-sm text-muted-foreground mt-2">
-              Acesse a ferramenta para calcular riscos à saúde pública e ao meio ambiente e gerenciar impactos ambientais.
+              Acesse a ferramenta para calcular riscos e gerenciar impactos ambientais.
             </p>
           </CardHeader>
           <CardContent>
